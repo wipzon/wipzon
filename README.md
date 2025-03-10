@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Nice
+student
+like books and games
 <!--
 **wipzon/wipzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
